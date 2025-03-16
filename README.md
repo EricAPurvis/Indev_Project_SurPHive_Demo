@@ -35,3 +35,14 @@ carrot seeds - plants carrot seeds in tilled ground, also takes 4 days to grow a
 wood - get wood when you chop down a tree etc
 
 stone - get stone when you mine a rock
+
+
+---Things to Note---
+
+Graphics are not final, gameplay is my main priority at this time
+
+Comments can still be made on Graphics as long as its constructive
+
+Looking for potential ideas to implement / to add to my to do list
+
+Entering the house door currently will teleport you to a different looking temp map until a house interior has been made to get into instead
