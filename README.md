@@ -6,7 +6,7 @@ esc - toggles menu (Options does not truely exist yet)
 
 f12 toggles character area and hit boxes
 
-f11 advances 1 day
+f11 advances 1 day (Now only while in a bed)
 
 f10 advances 1 hour
 
@@ -44,6 +44,12 @@ wood - get wood when you chop down a tree etc
 
 stone - get stone when you mine a rock
 
+---General Notes---
+
+Demo starts from house Now
+
+map changing works just by walking into how you'd expect it to (I hope)
+
 
 ---Things to Note---
 
@@ -54,3 +60,29 @@ Comments can still be made on Graphics as long as its constructive
 Looking for potential ideas to implement / to add to my to do list
 
 Entering the house door currently will teleport you to a different looking temp map until a house interior has been made to get into instead
+
+
+---Current Thoughts (James)---
+
+Remove animation locking to glide through seeding/watering
+
+
+---Todo List---
+
+Editable Character + changeable clothing
+
+Collecting and selling of items etc
+
+Making more map area such as town(s), forest(s), mine(s), etc
+
+Blacksmith, general store, and other town jobs to interact with
+
+Combat System
+
+Romancing
+
+Fishing
+
+Cooking
+
+More Crops
