@@ -1,3 +1,5 @@
+Compiled to java 1.8 SE
+
 esc - toggles menu (Options does not truely exist yet)
 
 f12 toggles character area and hit boxes
