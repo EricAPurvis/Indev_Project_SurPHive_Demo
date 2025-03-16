@@ -1,4 +1,6 @@
-Compiled to java 1.8 SE
+Compiled to java 1.8 SE  -- Jar file and res folder must stay together in the same directory
+
+javafix.exe included incase your click to run Runnable Jar file needs registry fixing
 
 esc - toggles menu (Options does not truely exist yet)
 
