@@ -86,3 +86,5 @@ Fishing
 Cooking
 
 More Crops
+
+Improve aiming of tool/seed etc hit location
