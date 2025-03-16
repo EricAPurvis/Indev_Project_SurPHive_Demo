@@ -1,11 +1,15 @@
 esc - toggles menu (Options does not truely exist yet)
 
 f12 toggles character area and hit boxes
+
 f11 advances 1 day
+
 f10 advances 1 hour
 
 w,a,s,d are movement keys
+
 1-0 selects a tool bar slot
+
 i toggles inventory
 
 left clicking with mouse while inventory is open will swap items around even from tool bar to backpack etc
