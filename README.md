@@ -88,3 +88,7 @@ Cooking
 More Crops
 
 Improve aiming of tool/seed etc hit location
+
+
+---Fixes List---
+Crop calculation math
